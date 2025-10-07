@@ -8,3 +8,7 @@ Added Headers to index.md
 ``` java
 String myStr = "Hello, world!";
 ```
+
+- [ ] Finish this activity
+- [x] Finish homework
+- [ ] Go fishing
