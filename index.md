@@ -4,3 +4,7 @@
 Added Headers to index.md
 
 ![Image of Panda](https://octodex.github.com/images/yaktocat.png)
+
+``` java
+String myStr = "Hello, world!";
+```
